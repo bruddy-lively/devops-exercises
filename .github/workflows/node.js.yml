@@ -5,9 +5,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ bruddy-lively-path-1 ]
+    branches: [ bruddy-lively-patch-1 ]
   pull_request:
-    branches: [ bruddy-lively-path-1 ]
+    branches: [ bruddy-lively-patch-1 ]
 
 jobs:
   build:
